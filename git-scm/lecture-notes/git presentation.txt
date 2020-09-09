@@ -1,0 +1,20 @@
+Topics for Git presentation
+---------------------------
+Intro to git
+	Distributed VCS
+	Installing
+	Add file
+	Commit
+	Push
+	Pull
+	Delete file
+	Change file
+	Move file
+	Branching
+	Merging
+	Merge tools
+	Tagging
+	Versioning schemes
+GUI's for git
+Patterns of SCM
+Implementation of patterns of SCM for git
